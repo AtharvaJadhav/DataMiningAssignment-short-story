@@ -8,6 +8,6 @@ The study demonstrates that chain-of-thought prompting significantly enhances th
 
 [Medium Article](https://medium.com/@atharvajadhav/unraveling-the-chain-of-thought-how-ai-can-mimic-human-reasoning-63bc3da1ea8f)
 
-[Slideshare Slides]()
+[Slideshare Slides](https://www.slideshare.net/atharva553835/chainofthought-promptingpptx)
 
 [Youtube Video]()
