@@ -10,4 +10,4 @@ The study demonstrates that chain-of-thought prompting significantly enhances th
 
 [Slideshare Slides](https://www.slideshare.net/atharva553835/chainofthought-promptingpptx)
 
-[Youtube Video]()
+[Youtube Video](https://youtu.be/XVl4V6vkijQ)
